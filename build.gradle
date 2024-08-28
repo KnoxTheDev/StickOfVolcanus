@@ -77,8 +77,3 @@ publishing {
 		// retrieving dependencies.
 	}
 }
-
-fabric {
-    mapperVersion = '1.21.1+build.3'
-    loaderVersion = '0.16.3'
-}
